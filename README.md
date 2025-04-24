@@ -20,22 +20,18 @@ Instructions for using the software:
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
-*
-*
+* Visual Studio Code
+* C# Language
 
 ## Useful Websites to Learn More
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+* [Hello World](https://github.com/jrentas13/HelloWorld)
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [ ] Display in Spanish and Portuguese
+* [ ] Make a menu to let user choose languague
