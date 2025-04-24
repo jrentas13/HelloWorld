@@ -1,0 +1,14 @@
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+C:\Users\javyr\Documents\Personal Projects\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
